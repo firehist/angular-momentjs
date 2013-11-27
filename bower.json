@@ -1,0 +1,17 @@
+{
+  "name": "angular-momentjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/firehist/angular-momentjs",
+  "authors": [
+    "Benjamin Longearet <blongearet@teads.tv>"
+  ],
+  "description": "Provides filters for momentjs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
